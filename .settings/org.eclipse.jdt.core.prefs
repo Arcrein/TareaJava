@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
+org.eclipse.jdt.core.compiler.compliance=17
+org.eclipse.jdt.core.compiler.source=17
+org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_annotation=disable
+org.eclipse.jdt.core.formatter.tabulation.char=space
+org.eclipse.jdt.core.formatter.tabulation.size=4
+org.eclipse.jdt.core.formatter.indentation.size=4
+org.eclipse.jdt.core.formatter.use_on_off_tags=true
+org.eclipse.jdt.ui.cleanup.remove_unused_imports=false
+org.eclipse.jdt.ui.cleanup.organize_imports=false
+org.eclipse.jdt.ui.editors.annotate.clean_up=false
+org.eclipse.jdt.ui.editor.save.participant.cleanup=false
